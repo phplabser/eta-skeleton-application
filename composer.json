@@ -9,15 +9,18 @@
     }
   ],
   "keywords": [
-      "framework",
-      "mvc",
-      "eta"
+    "framework",
+    "mvc",
+    "eta"
   ],
   "require": {
     "php": ">=7.0.6",
-    "phplabser/eta":"dev-master"
+    "phplabser/eta": "dev-master"
   },
   "repositories": [
-    {"phplabser/eta": "https://github.com/phplabser/eta"}
+    {
+        "type"  : "vcs",
+        "url" : "https://github.com/phplabser/eta"
+    }
   ]
 }
