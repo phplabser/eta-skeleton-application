@@ -1,0 +1,23 @@
+{
+  "name": "phplabser/eta-skeleton-application",
+  "description": "description_text",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Marcin Szczurek",
+      "email": "marcin.szczurek@phplabs.pl"
+    }
+  ],
+  "keywords": [
+      "framework",
+      "mvc",
+      "eta"
+  ],
+  "require": {
+    "php": ">=7.0.6",
+    "phplabser/eta":"dev-master"
+  },
+  "repositories": [
+    {"phplabser/eta": "https://github.com/phplabser/eta"}
+  ]
+}
