@@ -22,5 +22,8 @@
         "type"  : "vcs",
         "url" : "https://github.com/phplabser/eta"
     }
-  ]
+  ],
+  "scripts": {
+    "add_module" : "php tools/add_module.php"
+  }
 }
